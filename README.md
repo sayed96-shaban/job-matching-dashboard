@@ -1,5 +1,5 @@
 # job-matching-dashboard
-# Job Matching Dashboard
+
 
 A beginner-friendly Python project that matches a user's skills with available jobs and calculates the average salary for matched positions. Built using **Python** and **Pandas**, this project demonstrates basic data handling and filtering.
 
